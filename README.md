@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Adli
 
-🎓 Final-year Computer Science student  
+🎓 Final-year Computer Science (Software Engineer) student  
 💻 Into software engineering, cybersecurity, and AI  
-🚀 I enjoy building real-world projects, joining hackathons, solving CTF challenges, and turning ideas into things that actually work  
+🚀 I enjoy building real-world projects, joining hackathons, explore latest AI technology and turning ideas into things that actually work  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adlisyuk) 
