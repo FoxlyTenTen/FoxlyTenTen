@@ -1,7 +1,8 @@
 # Hi there 👋 I'm Adli Syukri
 
 🎓 Final-year Computer Science (Software Engineer) student  
-💻 Into software engineering, machine learning, AI and Multi-Agent System
+💻 Into software engineering, machine learning, AI and Multi-Agent System 
+
 🚀 I enjoy building real-world projects, joining hackathons, explore latest AI technology and turning ideas into things that actually work  
 
 ## 🌐 Socials:
