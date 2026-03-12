@@ -56,8 +56,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=FoxlyTenTen&theme=outrun&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxlyTenTen&theme=outrun&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FoxlyTenTen&theme=radical&no-frame=true&no-bg=true&margin-w=8)
+# 🏆 Achievements
+<p align="center">
+  <img src="https://img.shields.io/badge/🥈%20LoopHole%20Hackathon-2nd%20Runner--Up-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀%20PayHack%20Hackathon-Top%2017%20Finalist-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖%20Deriv%20AI%20Hackathon-Top%2042%20Semi--Finalist-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏆%20Program%20Akar%20Ideathon-2nd%20Place-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓%20Dean's%20List-2024%20%26%202025-16A34A?style=for-the-badge" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
