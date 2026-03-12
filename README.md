@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adli-syukri-8a782a28a) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdadlisyukri@gmail.com)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -51,12 +51,19 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
+## 🟡 Pac-Man Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FoxlyTenTen/FoxlyTenTen/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FoxlyTenTen/FoxlyTenTen/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FoxlyTenTen/FoxlyTenTen/output/pacman-contribution-graph.svg">
+</picture>
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FoxlyTenTen&theme=outrun&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=FoxlyTenTen&theme=outrun&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxlyTenTen&theme=outrun&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# 🏆 Achievements
+## 🏆 Achievements
 <p align="center">
   <img src="https://img.shields.io/badge/🥈%20LoopHole%20Hackathon-2nd%20Runner--Up-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🚀%20PayHack%20Hackathon-Top%2017%20Finalist-2563EB?style=for-the-badge" />
@@ -65,18 +72,9 @@
   <img src="https://img.shields.io/badge/🎓%20Dean's%20List-2024%20%26%202025-16A34A?style=for-the-badge" />
 </p>
 
-## 🟡 Pac-Man Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FoxlyTenTen/FoxlyTenTen/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FoxlyTenTen/FoxlyTenTen/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FoxlyTenTen/FoxlyTenTen/output/pacman-contribution-graph.svg">
-</picture>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FoxlyTenTen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FoxlyTenTen&icon=0&color=0)](https://visitcount.itsvg.in)
