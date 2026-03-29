@@ -59,10 +59,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FoxlyTenTen/FoxlyTenTen/output/pacman-contribution-graph.svg">
 </picture>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FoxlyTenTen&theme=outrun&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FoxlyTenTen&theme=outrun&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxlyTenTen&theme=outrun&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FoxlyTenTen&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🏆 Achievements
 <p align="center">
