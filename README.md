@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/🚀%20PayHack%20Hackathon-Top%2017%20Finalist-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🤖%20Deriv%20AI%20Hackathon-Top%2042%20Semi--Finalist-DC2626?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🏆%20Program%20Akar%20Ideathon-2nd%20Place-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎓%20Dean's%20List-2024%20%26%202025-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓%20Dean's%20List-2024%20%26%202025%20%26%202026-16A34A?style=for-the-badge" />
 </p>
 
 ### ✍️ Random Dev Quote
